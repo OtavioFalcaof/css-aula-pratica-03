@@ -1,0 +1,28 @@
+h1 {
+    text-transform: uppercase;
+    color: rgb(13, 129, 38);
+   
+}
+figure {
+    float: right;
+}
+h4 {
+    text-transform: uppercase;
+}
+ul, ol {
+    font-style: italic;
+}
+
+form{
+    width: 40px;
+}
+
+input[type=text]{
+    width: 400px;
+    height: 20px;
+}
+
+img{
+    border-radius: 4px;
+    box-shadow: 8px 25px 41px rgb(143, 143, 137);
+}
